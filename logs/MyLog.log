@@ -1,0 +1,56 @@
+[INFO ] 2022-06-07 01:22:16.034 [main] BaseClass - Setting up reports and Test Started
+[INFO ] 2022-06-07 01:30:59.026 [main] BaseClass - Setting up reports and Test is getting ready
+[INFO ] 2022-06-07 01:30:59.732 [main] BaseClass - Setting done - Test can be started 
+[INFO ] 2022-06-07 01:30:59.746 [main] BaseClass - Trying to start browser and getting application ready
+[INFO ] 2022-06-07 01:31:05.894 [main] BaseClass - Browser and application is up and running 
+[INFO ] 2022-06-07 01:31:09.003 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 01:31:09.948 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 01:31:12.151 [main] BaseClass - Browser is closed
+[INFO ] 2022-06-07 01:34:09.208 [main] BaseClass - Setting up reports and Test is getting ready
+[INFO ] 2022-06-07 01:34:10.369 [main] BaseClass - Setting done - Test can be started 
+[INFO ] 2022-06-07 01:34:10.390 [main] BaseClass - Trying to start browser and getting application ready
+[INFO ] 2022-06-07 01:34:16.910 [main] BaseClass - Browser and application is up and running 
+[INFO ] 2022-06-07 01:34:19.925 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 01:34:20.908 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 01:34:22.011 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 01:34:22.990 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 01:34:25.312 [main] BaseClass - Browser is closed
+[INFO ] 2022-06-07 01:35:11.050 [main] BaseClass - Setting up reports and Test is getting ready
+[INFO ] 2022-06-07 01:35:11.795 [main] BaseClass - Setting done - Test can be started 
+[INFO ] 2022-06-07 01:35:11.809 [main] BaseClass - Trying to start browser and getting application ready
+[INFO ] 2022-06-07 01:35:17.972 [main] BaseClass - Browser and application is up and running 
+[INFO ] 2022-06-07 01:35:20.905 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 01:35:21.708 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 01:35:23.933 [main] BaseClass - Browser is closed
+[INFO ] 2022-06-07 01:35:30.009 [main] BaseClass - Setting up reports and Test is getting ready
+[INFO ] 2022-06-07 01:35:30.785 [main] BaseClass - Setting done - Test can be started 
+[INFO ] 2022-06-07 01:35:30.801 [main] BaseClass - Trying to start browser and getting application ready
+[INFO ] 2022-06-07 01:35:36.757 [main] BaseClass - Browser and application is up and running 
+[INFO ] 2022-06-07 01:35:39.881 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 01:35:40.721 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 01:35:44.602 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 01:35:46.020 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 01:35:48.352 [main] BaseClass - Browser is closed
+[INFO ] 2022-06-07 01:36:35.819 [main] BaseClass - Setting up reports and Test is getting ready
+[INFO ] 2022-06-07 01:36:36.515 [main] BaseClass - Setting done - Test can be started 
+[INFO ] 2022-06-07 01:36:36.531 [main] BaseClass - Trying to start browser and getting application ready
+[INFO ] 2022-06-07 01:36:43.316 [main] BaseClass - Browser and application is up and running 
+[INFO ] 2022-06-07 01:36:45.951 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 01:36:46.657 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 01:36:48.866 [main] BaseClass - Browser is closed
+[INFO ] 2022-06-07 08:51:44.884 [main] BaseClass - Setting up reports and Test is getting ready
+[INFO ] 2022-06-07 08:51:46.016 [main] BaseClass - Setting done - Test can be started 
+[INFO ] 2022-06-07 08:51:46.036 [main] BaseClass - Trying to start browser and getting application ready
+[INFO ] 2022-06-07 08:51:52.790 [main] BaseClass - Browser and application is up and running 
+[INFO ] 2022-06-07 08:51:56.023 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 08:51:56.996 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 08:51:59.211 [main] BaseClass - Browser is closed
+[INFO ] 2022-06-07 08:52:09.306 [main] BaseClass - Setting up reports and Test is getting ready
+[INFO ] 2022-06-07 08:52:10.004 [main] BaseClass - Setting done - Test can be started 
+[INFO ] 2022-06-07 08:52:10.019 [main] BaseClass - Trying to start browser and getting application ready
+[INFO ] 2022-06-07 08:52:16.193 [main] BaseClass - Browser and application is up and running 
+[INFO ] 2022-06-07 08:52:19.341 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 08:52:20.103 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 08:52:24.002 [main] BaseClass - Test is about to end  
+[INFO ] 2022-06-07 08:52:25.536 [main] BaseClass - Test completed >> Reports generated
+[INFO ] 2022-06-07 08:52:27.763 [main] BaseClass - Browser is closed
